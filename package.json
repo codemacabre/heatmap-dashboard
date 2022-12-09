@@ -1,0 +1,32 @@
+{
+  "name": "heatmap-dashboard",
+  "version": "0.1.0",
+  "description": "A dashboard to show member distribution across the UK.",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemacabre/heatmap-dashboard.git"
+  },
+  "author": "Myles Lewando",
+  "license": "Hippocratic-3.0",
+  "bugs": {
+    "url": "https://github.com/codemacabre/heatmap-dashboard/issues"
+  },
+  "homepage": "https://github.com/codemacabre/heatmap-dashboard#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "nuxt": "3.0.0"
+  }
+}
