@@ -1,42 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Heatmap Dashboard
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.carloscuesta.me)
+[![License: Hippocratic 3.0](https://img.shields.io/badge/License-Hippocratic_3.0-lightgrey.svg)](https://firstdonoharm.dev/version/3/0/full.html)
 
-## Setup
+## Overview
 
-Make sure to install the dependencies:
+A dashboard to show distribution across the UK.
 
-```bash
-# yarn
-yarn install
+## License
 
-# npm
-npm install
+The Heatmap Dashboard is ethical open source software, offered under the Hippocratic License 3.0, a permissive license that enforces the licensee to comply with human rights principles and laws.
 
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Other software packages and libraries used fall under their own respective licenses.

@@ -1,7 +1,7 @@
 {
   "name": "heatmap-dashboard",
   "version": "0.1.0",
-  "description": "A dashboard to show member distribution across the UK.",
+  "description": "A dashboard to show distribution across the UK.",
   "private": true,
   "scripts": {
     "build": "nuxt build",
